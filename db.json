@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "id": "c3a7",
+      "carImage": "https://acura.com/-/media/Acura-Platform/Vehicles/2024/ZDX/AW/Carshot/carshot_ZDX_front_ZDXA-SPEC_2024_MercurySilverMetallic_3B1H4REXW_130H.png",
+      "carName": "ACURA",
+      "carModel": "ZDX",
+      "engineType": "EV",
+      "horsePower": "400",
+      "carPrice": 99898897,
+      "category": "ev",
+      "color": "grey"
+    }
+  ]
+}
